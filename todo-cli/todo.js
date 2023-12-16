@@ -117,4 +117,8 @@ console.log("Due Later")
 let itemsDueLater = todos.dueLater()
 let formattedItemsDueLater = todos.toDisplayableList(itemsDueLater)
 console.log(formattedItemsDueLater)
+<<<<<<< HEAD
 console.log("\n\n")
+=======
+console.log("\n\n")
+>>>>>>> 025e202f51611da68cca201bec6c8148211c288b
